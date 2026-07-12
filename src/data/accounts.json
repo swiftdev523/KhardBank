@@ -1,0 +1,179 @@
+[
+  {
+    "id": "acc_checking",
+    "userId": "usr_001",
+    "name": "Everyday Checking",
+    "type": "Checking",
+    "maskedNumber": "•••• 4821",
+    "balance": 8420.53,
+    "currency": "USD",
+    "balanceHistory": [
+      {
+        "date": "2025-08",
+        "balance": 7904.51
+      },
+      {
+        "date": "2025-09",
+        "balance": 8159.18
+      },
+      {
+        "date": "2025-10",
+        "balance": 7766.3
+      },
+      {
+        "date": "2025-11",
+        "balance": 7292.43
+      },
+      {
+        "date": "2025-12",
+        "balance": 7403.69
+      },
+      {
+        "date": "2026-01",
+        "balance": 8090.91
+      },
+      {
+        "date": "2026-02",
+        "balance": 8048.22
+      },
+      {
+        "date": "2026-03",
+        "balance": 7537
+      },
+      {
+        "date": "2026-04",
+        "balance": 7240.11
+      },
+      {
+        "date": "2026-05",
+        "balance": 7710.54
+      },
+      {
+        "date": "2026-06",
+        "balance": 7986.66
+      },
+      {
+        "date": "2026-07",
+        "balance": 7823.78
+      }
+    ]
+  },
+  {
+    "id": "acc_savings",
+    "userId": "usr_001",
+    "name": "High-Yield Savings",
+    "type": "Savings",
+    "maskedNumber": "•••• 7739",
+    "balance": 24310.11,
+    "currency": "USD",
+    "balanceHistory": [
+      {
+        "date": "2025-08",
+        "balance": 21432.11
+      },
+      {
+        "date": "2025-09",
+        "balance": 22285.05
+      },
+      {
+        "date": "2025-10",
+        "balance": 22046.02
+      },
+      {
+        "date": "2025-11",
+        "balance": 21667.83
+      },
+      {
+        "date": "2025-12",
+        "balance": 21863.29
+      },
+      {
+        "date": "2026-01",
+        "balance": 22429.75
+      },
+      {
+        "date": "2026-02",
+        "balance": 22939.16
+      },
+      {
+        "date": "2026-03",
+        "balance": 22134
+      },
+      {
+        "date": "2026-04",
+        "balance": 21686.19
+      },
+      {
+        "date": "2026-05",
+        "balance": 22526.35
+      },
+      {
+        "date": "2026-06",
+        "balance": 23271.19
+      },
+      {
+        "date": "2026-07",
+        "balance": 23344.09
+      }
+    ]
+  },
+  {
+    "id": "acc_credit",
+    "userId": "usr_001",
+    "name": "Brass Rewards Card",
+    "type": "Credit Card",
+    "maskedNumber": "•••• 1092",
+    "balance": -1284.32,
+    "currency": "USD",
+    "balanceHistory": [
+      {
+        "date": "2025-08",
+        "balance": 0
+      },
+      {
+        "date": "2025-09",
+        "balance": 313.12
+      },
+      {
+        "date": "2025-10",
+        "balance": 68.69
+      },
+      {
+        "date": "2025-11",
+        "balance": 0
+      },
+      {
+        "date": "2025-12",
+        "balance": 291.71
+      },
+      {
+        "date": "2026-01",
+        "balance": 610.03
+      },
+      {
+        "date": "2026-02",
+        "balance": 620.06
+      },
+      {
+        "date": "2026-03",
+        "balance": 234.9
+      },
+      {
+        "date": "2026-04",
+        "balance": 118.04
+      },
+      {
+        "date": "2026-05",
+        "balance": 360.85
+      },
+      {
+        "date": "2026-06",
+        "balance": 905.64
+      },
+      {
+        "date": "2026-07",
+        "balance": 934.33
+      }
+    ]
+  }
+]

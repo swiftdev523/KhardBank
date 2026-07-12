@@ -1,0 +1,22 @@
+[
+  {
+    "id": "card_debit",
+    "accountId": "acc_checking",
+    "type": "Debit",
+    "network": "Visa",
+    "maskedNumber": "4821 •••• •••• 0417",
+    "holderName": "Amara Whitfield",
+    "expiry": "09/28",
+    "frozen": false
+  },
+  {
+    "id": "card_credit",
+    "accountId": "acc_credit",
+    "type": "Credit",
+    "network": "Mastercard",
+    "maskedNumber": "1092 •••• •••• 5563",
+    "holderName": "Amara Whitfield",
+    "expiry": "02/27",
+    "frozen": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stmt_2026_06",
+    "label": "June 2026",
+    "date": "2026-07-01",
+    "filename": "vaultis-statement-2026-06.pdf"
+  },
+  {
+    "id": "stmt_2026_05",
+    "label": "May 2026",
+    "date": "2026-06-01",
+    "filename": "vaultis-statement-2026-05.pdf"
+  },
+  {
+    "id": "stmt_2026_04",
+    "label": "April 2026",
+    "date": "2026-05-01",
+    "filename": "vaultis-statement-2026-04.pdf"
+  },
+  {
+    "id": "stmt_2026_03",
+    "label": "March 2026",
+    "date": "2026-04-01",
+    "filename": "vaultis-statement-2026-03.pdf"
+  },
+  {
+    "id": "stmt_2026_02",
+    "label": "February 2026",
+    "date": "2026-03-01",
+    "filename": "vaultis-statement-2026-02.pdf"
+  },
+  {
+    "id": "stmt_2026_01",
+    "label": "January 2026",
+    "date": "2026-02-01",
+    "filename": "vaultis-statement-2026-01.pdf"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "id": "txn_0001",
+    "accountId": "acc_checking",
+    "date": "2026-07-12",
+    "merchant": "Harborview Market",
+    "category": "Groceries",
+    "amount": 46.42,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0002",
+    "accountId": "acc_credit",
+    "date": "2026-07-10",
+    "merchant": "Pacific Power & Light",
+    "category": "Bills",
+    "amount": 58.02,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0003",
+    "accountId": "acc_credit",
+    "date": "2026-07-09",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "amount": 176.16,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0004",
+    "accountId": "acc_credit",
+    "date": "2026-07-06",
+    "merchant": "The New York Times",
+    "category": "Subscriptions",
+    "amount": 18.88,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0005",
+    "accountId": "acc_credit",
+    "date": "2026-07-06",
+    "merchant": "Ronin Ramen House",
+    "category": "Dining",
+    "amount": 66.22,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0006",
+    "accountId": "acc_savings",
+    "date": "2026-07-03",
+    "merchant": "Zelle — J. Alden",
+    "category": "Transfer",
+    "amount": 458.42,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0007",
+    "accountId": "acc_checking",
+    "date": "2026-07-02",
+    "merchant": "Meridian Health Clinic",
+    "category": "Health",
+    "amount": 155.82,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0008",
+    "accountId": "acc_savings",
+    "date": "2026-06-29",
+    "merchant": "The Brass Kettle",
+    "category": "Dining",
+    "amount": 20.21,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0009",
+    "accountId": "acc_checking",
+    "date": "2026-06-28",
+    "merchant": "Zelle — J. Alden",
+    "category": "Transfer",
+    "amount": 330.5,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0010",
+    "accountId": "acc_savings",
+    "date": "2026-06-26",
+    "merchant": "Meridian Health Clinic",
+    "category": "Health",
+    "amount": 58.53,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0011",
+    "accountId": "acc_credit",
+    "date": "2026-06-24",
+    "merchant": "Shell Fuel",
+    "category": "Transport",
+    "amount": 8.56,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0012",
+    "accountId": "acc_credit",
+    "date": "2026-06-22",
+    "merchant": "Freelance Deposit — Studio Ora",
+    "category": "Income",
+    "amount": 3030.25,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0013",
+    "accountId": "acc_checking",
+    "date": "2026-06-22",
+    "merchant": "Live Nation",
+    "category": "Entertainment",
+    "amount": 12.94,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0014",
+    "accountId": "acc_savings",
+    "date": "2026-06-20",
+    "merchant": "Green Basket Co-op",
+    "category": "Groceries",
+    "amount": 54.99,
+    "type": "debit"
+  },
+  {
+    "id": "txn_9002",
+    "accountId": "acc_credit",
+    "date": "2026-06-18",
+    "merchant": "West Elm — Furniture",
+    "category": "Shopping",
+    "amount": 1890.4,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0015",
+    "accountId": "acc_checking",
+    "date": "2026-06-17",
+    "merchant": "Interest Payment",
+    "category": "Income",
+    "amount": 1103.71,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0016",
+    "accountId": "acc_credit",
+    "date": "2026-06-16",
+    "merchant": "Alamo Drafthouse",
+    "category": "Entertainment",
+    "amount": 29.55,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0017",
+    "accountId": "acc_checking",
+    "date": "2026-06-14",
+    "merchant": "Harborview Market",
+    "category": "Groceries",
+    "amount": 25.25,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0018",
+    "accountId": "acc_savings",
+    "date": "2026-06-12",
+    "merchant": "Pacific Power & Light",
+    "category": "Bills",
+    "amount": 205.62,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0019",
+    "accountId": "acc_checking",
+    "date": "2026-06-11",
+    "merchant": "Nordstrom",
+    "category": "Shopping",
+    "amount": 186.56,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0020",
+    "accountId": "acc_savings",
+    "date": "2026-06-10",
+    "merchant": "The New York Times",
+    "category": "Subscriptions",
+    "amount": 9.85,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0021",
+    "accountId": "acc_checking",
+    "date": "2026-06-08",
+    "merchant": "Ronin Ramen House",
+    "category": "Dining",
+    "amount": 14.03,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0022",
+    "accountId": "acc_savings",
+    "date": "2026-06-05",
+    "merchant": "Everlane",
+    "category": "Shopping",
+    "amount": 64.66,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0023",
+    "accountId": "acc_checking",
+    "date": "2026-06-04",
+    "merchant": "iCloud+",
+    "category": "Subscriptions",
+    "amount": 22.08,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0024",
+    "accountId": "acc_credit",
+    "date": "2026-06-03",
+    "merchant": "The Brass Kettle",
+    "category": "Dining",
+    "amount": 28.72,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0025",
+    "accountId": "acc_checking",
+    "date": "2026-05-31",
+    "merchant": "Transfer to Savings",
+    "category": "Transfer",
+    "amount": 534.28,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0026",
+    "accountId": "acc_savings",
+    "date": "2026-05-30",
+    "merchant": "CVS Pharmacy",
+    "category": "Health",
+    "amount": 79.63,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0027",
+    "accountId": "acc_credit",
+    "date": "2026-05-27",
+    "merchant": "Shell Fuel",
+    "category": "Transport",
+    "amount": 39.3,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0028",
+    "accountId": "acc_savings",
+    "date": "2026-05-27",
+    "merchant": "Meridian Analytics Payroll",
+    "category": "Income",
+    "amount": 2684.25,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0029",
+    "accountId": "acc_checking",
+    "date": "2026-05-25",
+    "merchant": "CVS Pharmacy",
+    "category": "Health",
+    "amount": 45.34,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0030",
+    "accountId": "acc_savings",
+    "date": "2026-05-23",
+    "merchant": "City Parking Authority",
+    "category": "Transport",
+    "amount": 9.45,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0031",
+    "accountId": "acc_credit",
+    "date": "2026-05-22",
+    "merchant": "Freelance Deposit — Studio Ora",
+    "category": "Income",
+    "amount": 1068.07,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0032",
+    "accountId": "acc_savings",
+    "date": "2026-05-19",
+    "merchant": "Alamo Drafthouse",
+    "category": "Entertainment",
+    "amount": 43.69,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0033",
+    "accountId": "acc_checking",
+    "date": "2026-05-18",
+    "merchant": "Harborview Market",
+    "category": "Groceries",
+    "amount": 54.85,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0034",
+    "accountId": "acc_savings",
+    "date": "2026-05-16",
+    "merchant": "Aqueduct Water Co.",
+    "category": "Bills",
+    "amount": 40.31,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0035",
+    "accountId": "acc_checking",
+    "date": "2026-05-15",
+    "merchant": "Nordstrom",
+    "category": "Shopping",
+    "amount": 140.37,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0036",
+    "accountId": "acc_credit",
+    "date": "2026-05-13",
+    "merchant": "Cedar & Rye Grocers",
+    "category": "Groceries",
+    "amount": 108.78,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0037",
+    "accountId": "acc_checking",
+    "date": "2026-05-11",
+    "merchant": "Comcast Xfinity",
+    "category": "Bills",
+    "amount": 172.47,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0038",
+    "accountId": "acc_credit",
+    "date": "2026-05-08",
+    "merchant": "Everlane",
+    "category": "Shopping",
+    "amount": 33.34,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0039",
+    "accountId": "acc_checking",
+    "date": "2026-05-08",
+    "merchant": "iCloud+",
+    "category": "Subscriptions",
+    "amount": 20.54,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0040",
+    "accountId": "acc_savings",
+    "date": "2026-05-05",
+    "merchant": "Fernwood Coffee Roasters",
+    "category": "Dining",
+    "amount": 76.58,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0041",
+    "accountId": "acc_checking",
+    "date": "2026-05-03",
+    "merchant": "Transfer from Checking",
+    "category": "Transfer",
+    "amount": 219.76,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0042",
+    "accountId": "acc_savings",
+    "date": "2026-05-03",
+    "merchant": "Everwell Dental",
+    "category": "Health",
+    "amount": 119.17,
+    "type": "debit"
+  },
+  {
+    "id": "txn_9001",
+    "accountId": "acc_checking",
+    "date": "2026-05-02",
+    "merchant": "Meridian Analytics — Annual Bonus",
+    "category": "Income",
+    "amount": 4200,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0043",
+    "accountId": "acc_checking",
+    "date": "2026-05-01",
+    "merchant": "Osteria Marzano",
+    "category": "Dining",
+    "amount": 69.38,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0044",
+    "accountId": "acc_savings",
+    "date": "2026-04-28",
+    "merchant": "Transfer from Checking",
+    "category": "Transfer",
+    "amount": 517.56,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0045",
+    "accountId": "acc_checking",
+    "date": "2026-04-27",
+    "merchant": "Everwell Dental",
+    "category": "Health",
+    "amount": 137.11,
+    "type": "debit"
+  },
+  {
+    "id": "txn_9003",
+    "accountId": "acc_checking",
+    "date": "2026-04-27",
+    "merchant": "Everwell Dental — Procedure",
+    "category": "Health",
+    "amount": 760,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0046",
+    "accountId": "acc_savings",
+    "date": "2026-04-26",
+    "merchant": "Metro Transit Pass",
+    "category": "Transport",
+    "amount": 15.65,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0047",
+    "accountId": "acc_credit",
+    "date": "2026-04-23",
+    "merchant": "Interest Payment",
+    "category": "Income",
+    "amount": 2362.45,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0048",
+    "accountId": "acc_savings",
+    "date": "2026-04-22",
+    "merchant": "Alamo Drafthouse",
+    "category": "Entertainment",
+    "amount": 22.68,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0049",
+    "accountId": "acc_checking",
+    "date": "2026-04-19",
+    "merchant": "Cedar & Rye Grocers",
+    "category": "Groceries",
+    "amount": 89.42,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0050",
+    "accountId": "acc_savings",
+    "date": "2026-04-19",
+    "merchant": "Meridian Analytics Payroll",
+    "category": "Income",
+    "amount": 1801.94,
+    "type": "credit"
+  },
+  {
+    "id": "txn_0051",
+    "accountId": "acc_checking",
+    "date": "2026-04-17",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 26.75,
+    "type": "debit"
+  },
+  {
+    "id": "txn_0052",
+    "accountId": "acc_savings",
+    "date": "2026-04-14",
+    "merchant": "Whole Foods",
+    "category": "Groceries",
+    "amount": 55.58,
+    "type": "debit"
+  }
+]
