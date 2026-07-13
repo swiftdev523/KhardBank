@@ -36,7 +36,7 @@ export default function BankCard({ card, frozen }) {
             {card.type} card
           </p>
           <p className="font-serif font-semibold text-lg mt-0.5">
-            Vaultis Bank
+            Vaultis Banking
           </p>
         </div>
         <Wifi
